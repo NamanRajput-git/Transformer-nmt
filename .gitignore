@@ -1,7 +1,10 @@
 __pycache__
 .ipynb_checkpoints
-data
+data/
 dataset.csv
 bpe.model
 bpe.vocab
 best_transformer_model.pt
+best_transformer_model*.pt
+checkpoint_*.pt
+*.pt
